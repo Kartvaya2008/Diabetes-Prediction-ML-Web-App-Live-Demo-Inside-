@@ -3,7 +3,7 @@
 This is an end-to-end Machine Learning web application for predicting diabetes based on user health inputs.
 
 ## 🔗 Live Demo
-👉 https://kartvaya-diabetes-ai.streamlit.app/
+👉 https://diabetes-aiappapp.streamlit.app/
 
 ## 📌 Project Overview
 This project uses Machine Learning techniques to predict whether a person is likely to have diabetes based on medical parameters.
