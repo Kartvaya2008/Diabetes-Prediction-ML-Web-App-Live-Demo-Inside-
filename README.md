@@ -1,5 +1,7 @@
 # 🧬 Diabetes Prediction – End-to-End Machine Learning Web Application 💻🩺
 
+# fist yo 
+
 ## 🔗 Live Demo
 👉 https://kartvaya26diabetes-ai.streamlit.app/
 
